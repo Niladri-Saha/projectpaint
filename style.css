@@ -1,0 +1,9 @@
+body{
+    background-image:url("https://previews.123rf.com/images/olegdudko/olegdudko1802/olegdudko180201809/94878830-colorful-drawing-supplies-frame-on-white-background-free-space-flat-lay-art-workshop-painting-inspir.jpg");
+   
+ }
+ #myCanvas{
+   background-color:white;
+   border-color:grey;
+   border-style:solid;
+ }
